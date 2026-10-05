@@ -1,0 +1,26 @@
+%YAML:1.0
+---
+calibrationDate: "Fri May  8 08:19:37 2026\n"
+cameraMatrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.1095433760699507e+00, 0., 5.1406353721606279e-01, 0.,
+       8.2992729351178696e-01, 4.8840055689213635e-01, 0., 0., 1. ]
+distCoeffs: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ 0., 0., 0., 0., 0. ]
+R: !!opencv-matrix
+   rows: 1
+   cols: 3
+   dt: d
+   data: [ 2.2802879013688568e+00, -9.3065110596629985e-01,
+       3.6404280215148049e-01 ]
+T: !!opencv-matrix
+   rows: 1
+   cols: 3
+   dt: d
+   data: [ 5.6450753731490067e+01, 2.6611110543483505e+02,
+       3.6620371170575872e+03 ]

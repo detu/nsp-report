@@ -1,0 +1,62 @@
+{
+  "cameras": [
+    {
+      "number": 1,
+      "serial": "rpi5_31"
+    },
+    {
+      "number": 2,
+      "serial": "rpi5_32"
+    },
+    {
+      "number": 3,
+      "serial": "rpi5_33"
+    },
+    {
+      "number": 4,
+      "serial": "rpi5_34"
+    }
+  ],
+  "description": "Auto-recorded data",
+  "measurement_area": {
+    "xmax": 915.0,
+    "xmin": -915.0,
+    "ymax": 915.0,
+    "ymin": -915.0,
+    "zmax": 1800.0
+  },
+  "test_type": "eval",
+  "transactions": [
+    {
+      "archive_name": "JD014600012843761667_20260928T160153452Z",
+      "bounding_box": {
+        "corners": [
+          {
+            "x": -504.0,
+            "y": 560.0
+          },
+          {
+            "x": 83.0,
+            "y": 622.0
+          },
+          {
+            "x": 165.0,
+            "y": -165.0
+          },
+          {
+            "x": -421.0,
+            "y": -226.0
+          }
+        ],
+        "height": 706.0
+      },
+      "label_class": [
+        "ocr"
+      ],
+      "measurement_id": "CSN870-20260928T155803.083Z",
+      "non_stackable_geometric": true,
+      "non_stackable_label": true,
+      "transaction_id": "JD014600012843761667"
+    }
+  ]
+}

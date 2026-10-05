@@ -1,0 +1,59 @@
+{
+  "cameras": [
+    {
+      "number": 1,
+      "serial": "rpi5_31"
+    },
+    {
+      "number": 2,
+      "serial": "rpi5_32"
+    },
+    {
+      "number": 3,
+      "serial": "rpi5_33"
+    },
+    {
+      "number": 4,
+      "serial": "rpi5_34"
+    }
+  ],
+  "description": "Auto-recorded data",
+  "measurement_area": {
+    "xmax": 915.0,
+    "xmin": -915.0,
+    "ymax": 915.0,
+    "ymin": -915.0,
+    "zmax": 1800.0
+  },
+  "test_type": "eval",
+  "transactions": [
+    {
+      "archive_name": "LEIFX812345678070382242_20260929T144646186Z",
+      "bounding_box": {
+        "corners": [
+          {
+            "x": -162.0,
+            "y": 734.0
+          },
+          {
+            "x": -98.0,
+            "y": -667.0
+          },
+          {
+            "x": -539.0,
+            "y": -687.0
+          },
+          {
+            "x": -603.0,
+            "y": 714.0
+          }
+        ],
+        "height": 245.0
+      },
+      "measurement_id": "CSN870-20260929T144253.973Z",
+      "non_stackable_geometric": false,
+      "non_stackable_label": false,
+      "transaction_id": "LEIFX812345678070382242"
+    }
+  ]
+}
